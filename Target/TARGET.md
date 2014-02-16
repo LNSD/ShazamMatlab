@@ -1,4 +1,4 @@
-ShazamMatlab
+Target Folder
 ============
 
-Matlab implementation of Shazam-linke hashing algorithm and track db matching.
+Put HERE the tracklist that will be your DB.

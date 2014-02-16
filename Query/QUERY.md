@@ -1,4 +1,4 @@
-ShazamMatlab
+Query Folder
 ============
 
-Matlab implementation of Shazam-linke hashing algorithm and track db matching.
+Put HERE your track snippets.
