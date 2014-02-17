@@ -51,4 +51,3 @@ Running procedure
 > 2. Run ***match_query()*** function: 
 `>> match_query('Query/audio_fragment.mp3', 'Target/hashes.mat')` where the first function's argument is the path to our audio fragment and the second argument is the DB file created before.
 
-----------
